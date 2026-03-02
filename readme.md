@@ -1,1 +1,1 @@
-afroplan site web de coiffures afro
+AfroPlan est une application web innovante qui vise à devenir la référence incontournable pour les clients et les coiffeurs Afro. Elle permet aux utilisateurs de trouver facilement des salons de coiffure adaptés à leurs besoins, en fonction du style ou de la coupe qu’ils désirent.
